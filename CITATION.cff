@@ -1,0 +1,37 @@
+# CITATION.cff — machine-readable citation metadata (GitHub renders this as
+# the "Cite this repository" button). Software citation below; when the paper
+# has an arXiv id or DOI, uncomment and complete the preferred-citation block
+# so citations route to the paper.
+cff-version: 1.2.0
+message: "If you use FadeBench, please cite it as below."
+type: software
+title: "FadeBench"
+authors:
+  - family-names: "Northaven"
+    given-names: "Becky"
+version: 0.3.0
+date-released: 2026-09-01
+license: Apache-2.0
+repository-code: "https://github.com/sequimelectronics/fadebench"
+abstract: >-
+  A benchmark for incremental ethical drift ("ethical fading") in small
+  local language models: cumulative pressure ladders with paired one-shot
+  controls, four subject configurations, pre-registered criteria with
+  outcomes on the record, and a full deviations log.
+keywords:
+  - benchmark
+  - ai-safety
+  - llm-evaluation
+  - ai-alignment
+  - ethics
+  - local-llm
+  - language-models
+# preferred-citation:
+#   type: article
+#   title: "No Step Looked Wrong: FadeBench, a Benchmark for Incremental Moral Drift in Small Language Models"
+#   authors:
+#     - family-names: "Northaven"
+#       given-names: "Becky"
+#   year: 2026
+#   # doi: 10.xxxxx/xxxxx          (fill when assigned)
+#   # url: https://arxiv.org/abs/XXXX.XXXXX

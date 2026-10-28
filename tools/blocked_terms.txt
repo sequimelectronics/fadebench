@@ -1,0 +1,8 @@
+# FadeBench blocked terms -- salted SHA-256 digests, one per line, `category:digest`.
+#
+# THIS PUBLIC COPY IS DELIBERATELY EMPTY. The maintainer's digest list stays
+# local: under a public salt, the digest of a guessable term is confirmable
+# by anyone willing to hash candidate strings, so shipping the list would
+# weaken the very names it protects. The guard machinery ships so the
+# discipline is inspectable and reusable; populate your own list with:
+#   python tools/add_term.py "category" "Term"
