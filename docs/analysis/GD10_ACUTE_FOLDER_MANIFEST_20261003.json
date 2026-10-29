@@ -1,0 +1,33 @@
+{
+ "folders": {
+  "E:/blind_seed_rating_1_20261003": {
+   ".claude/settings.json": "4e04ad8d1a02052d16881840567a3e52b205cbedd48ceda4b42c79069c5b2fb6",
+   "ANSWERS.txt": "d3cbea666849b874a1161b5698651da7016bf506125c8be0f70e27c0e5b866a2",
+   "GUIDE.md": "e2df65800cfb935f05eb2e11c36ff13e1c3677e1fc80a3e14ff669c7490b4af3",
+   "RATINGS.csv": "b7a17295154e5ac9242920d96ffc58dcd6e69e72b17711e566712ac4ead571b8",
+   "README.md": "d3c85043e3a9ce4b9faa0fe8414535448eaf202d21ccd7c64e563b4a43e2b932",
+   "SCENE.md": "0a9dc51d69af0e1d6119df33c622f58f4ec122ecc9da7c5fe90b3a5aba4c2df4"
+  },
+  "E:/blind_seed_rating_2_20261003": {
+   ".claude/settings.json": "4e04ad8d1a02052d16881840567a3e52b205cbedd48ceda4b42c79069c5b2fb6",
+   "ANSWERS.txt": "d3cbea666849b874a1161b5698651da7016bf506125c8be0f70e27c0e5b866a2",
+   "GUIDE.md": "e2df65800cfb935f05eb2e11c36ff13e1c3677e1fc80a3e14ff669c7490b4af3",
+   "RATINGS.csv": "b7a17295154e5ac9242920d96ffc58dcd6e69e72b17711e566712ac4ead571b8",
+   "README.md": "d3c85043e3a9ce4b9faa0fe8414535448eaf202d21ccd7c64e563b4a43e2b932",
+   "SCENE.md": "0a9dc51d69af0e1d6119df33c622f58f4ec122ecc9da7c5fe90b3a5aba4c2df4"
+  }
+ },
+ "key_sha256": "73d6320822ff6ecc7d1db90a6806c4a642e2a8db5081124bf90f97a1dc6800dc",
+ "scan_hits": {
+  "E:/blind_seed_rating_1_20261003": {
+   "ANSWERS.txt": {
+    "acute": 4
+   }
+  },
+  "E:/blind_seed_rating_2_20261003": {
+   "ANSWERS.txt": {
+    "acute": 4
+   }
+  }
+ }
+}

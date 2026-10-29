@@ -1,0 +1,143 @@
+{
+  "folders": {
+    "E:/blind_traces_01_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "f1058b07cda0831eb92c938cb30c283b4777078611a78f20693e97dfa5e0e8da",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    },
+    "E:/blind_traces_02_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "c4186ab7f76060abc0bc1c0fa14f09c56a9b9c2b103f6e8e1764b4f9981a182d",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "49836e05014547cd2f4bfddea0c899e70b2424656ec0b7c7d99e539abed67f16"
+    },
+    "E:/blind_traces_03_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "810e14991f9dcbf722609ad6086a89a0d7ae3cb31a8be2784b053681c6fcbfe8",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    },
+    "E:/blind_traces_04_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "ac92a51e1c858ace637da2c517ada67628d20efe3b97f8ba0d5715d8d64bdc31",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    },
+    "E:/blind_traces_05_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "be2950e7e44a9bd6671162e280330f588f223b9580d0194418b65a5111ea1ef6",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "49836e05014547cd2f4bfddea0c899e70b2424656ec0b7c7d99e539abed67f16"
+    },
+    "E:/blind_traces_06_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "6eecbe2d28b25b42e51417bffa1c4b482a98f15b28c8a320b4d8ab8425fb981b",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    },
+    "E:/blind_traces_07_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "5978dfcf4af0a7ee29b6829b6deb395e74db7625ee76af06a64dc43ee66affac",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    },
+    "E:/blind_traces_08_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "bfcbe781c63ac0a3967fcf306d2458484b5332e81d1e86579d674d83cfb2f631",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "49836e05014547cd2f4bfddea0c899e70b2424656ec0b7c7d99e539abed67f16"
+    },
+    "E:/blind_traces_09_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "b2cabfeeb9b9a6261c59855f48f30d15f3173fcbe602ee5732a1ee20f3a8c66b",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    },
+    "E:/blind_traces_10_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "d0ea1bc623a118efdd18f68d43af864bd7cd2d9932486759414f867cd80cdf4b",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    },
+    "E:/blind_traces_11_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "657912202a259ff621ce83e362dcd59608df2ac43c8f3e51384a91ffaa351447",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "49836e05014547cd2f4bfddea0c899e70b2424656ec0b7c7d99e539abed67f16"
+    },
+    "E:/blind_traces_12_20261003": {
+      ".claude/settings.json": "e1a9059a96e1a255fe39196b7b8267d5b06ffc588622bb372bb029fd49144702",
+      "ANSWERS.txt": "190d979d0f755398c5d6366df3ba4ce9b61c2c64e444e54994fcd91162f4e2a7",
+      "GUIDE.md": "3ee74b17721ae564f8f39b399eb8c7b2a150d803c1274332b4ed8c7ce4739e64",
+      "RATINGS.csv": "7e02562c36135866e7088e0ecf8632b21ec21a5c0486f79bbe755d288ce05c54",
+      "README.md": "449eace87863e3e09519105287f1cad91e69c6548d8e108ec8a610ec6ace0b40",
+      "SCENE.md": "a7e9fa2ecc6437f52c98f2c96ac7533a2be3c768375f50fe6779ab4f5b152835"
+    }
+  },
+  "key_sha256": "5c319be6e888ee95d543fe862ceaac7b1e360d41328dec6d58503685a8307301",
+  "scan_hits": {
+    "E:/blind_traces_01_20261003": {},
+    "E:/blind_traces_02_20261003": {
+      "ANSWERS.txt": {
+        "motivat": 1
+      }
+    },
+    "E:/blind_traces_03_20261003": {},
+    "E:/blind_traces_04_20261003": {
+      "ANSWERS.txt": {
+        "\\bstance": 1
+      }
+    },
+    "E:/blind_traces_05_20261003": {},
+    "E:/blind_traces_06_20261003": {
+      "ANSWERS.txt": {
+        "\\bstance": 1
+      }
+    },
+    "E:/blind_traces_07_20261003": {
+      "ANSWERS.txt": {
+        "distrust": 1
+      }
+    },
+    "E:/blind_traces_08_20261003": {
+      "ANSWERS.txt": {
+        "motivat": 1
+      }
+    },
+    "E:/blind_traces_09_20261003": {},
+    "E:/blind_traces_10_20261003": {
+      "ANSWERS.txt": {
+        "motivat": 1
+      }
+    },
+    "E:/blind_traces_11_20261003": {},
+    "E:/blind_traces_12_20261003": {
+      "ANSWERS.txt": {
+        "motivat": 1
+      }
+    }
+  }
+}

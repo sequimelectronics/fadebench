@@ -1,0 +1,131 @@
+{
+ "computes": {
+  "byte_identical": true,
+  "bytes": 17688088,
+  "command": "python -P <script> --out <file>, from the repository root, the inputs at the format's defaults",
+  "format": "followup round output format, 2026-10-15",
+  "outputs": {
+   "runs/analysis/followup_round/computes/out_one.json": "7f65e4c5b6f65cd05f358fabca12aedad56983527bc5207ba03097af4ff44822",
+   "runs/analysis/followup_round/computes/out_two.json": "7f65e4c5b6f65cd05f358fabca12aedad56983527bc5207ba03097af4ff44822"
+  },
+  "printouts": {
+   "runs/analysis/followup_round/compute_run/02_compute_one.txt": "d6274a3fbc8b47dfc3d70b43e4afe8fa8847bb906ca7ccbb922e5815526033f4",
+   "runs/analysis/followup_round/compute_run/03_compute_two.txt": "3981c90e1927248de8e20aa83a2a1ebca5b3c75810fce5102779966212da0a57"
+  },
+  "scripts": {
+   "runs/analysis/followup_round/scripts/fu_compute_one.py": "648ee99756ae0bd8651821f434fbc765155f4b3d6ba4bc80255e392d1432f0bc",
+   "runs/analysis/followup_round/scripts/fu_compute_two.py": "1a1621b091abf57e155214ceb9d6136a201d9646ab4949f42e7102bd858d0a36"
+  }
+ },
+ "digest_rule": "sha256 of the sorted lines: the path relative to the group's folder, a tab, the file's sha256, a line end",
+ "format": "fu-joined-v1",
+ "groups": {
+  "joined": {
+   "count": 40,
+   "digest": "1e2bf1dc552c5130c8682a5b579a5841ee741ae8335ad63396e939ab48ba9425",
+   "files": {
+    "r1/cartpony_traces/models.csv": "89c11b7b6beb33088b0db10f1559dbb74b1ad66e9820a62f23d095e5c1d05f7c",
+    "r1/cartpony_traces/ratings.csv": "c6fef7296e4899140e6dd48924763055f51cc79e4c5b709145a2ea552b2c68b4",
+    "r1/family_7a/models.csv": "cff9a8147edd67c4a9f024263a220374a0bc61b656e3e9180a1a18496df003d7",
+    "r1/family_7a/ratings.csv": "acd731643c59f3570549d5afd6c6dfb01fd617da9c040883a2ecb4d9c15111a0",
+    "r1/family_7b/models.csv": "617f7b1b4e6bec228335b92604d2b900428387a14fa02cb7b70563b7885c871c",
+    "r1/family_7b/ratings.csv": "f3000820a229b63587f27f56f900ec4716f81c1028f61eb76149cc169bed1c69",
+    "r1/family_traces/models.csv": "43e9033eab34e631e6603c793c1a14551f42f68775834473dc91777601aee011",
+    "r1/family_traces/ratings.csv": "7e5334af3c679ff22297e50e8d2ac64b89e78ddd5dae3adf367e27aeb1ed46cb",
+    "r1/fireside_7a/models.csv": "3cd81853261272765f7f02a88de8e0e3875116d6300a471757b4292cee9ef43d",
+    "r1/fireside_7a/ratings.csv": "7685679ec19b9ba23d73b6d7e75623e157faa6f3fef776914377b63dd21c7637",
+    "r1/fireside_7b/models.csv": "ba3fccff40c1d6c962f45aa43f5e5c9da11c961545970f8e82d4af100a8a9340",
+    "r1/fireside_7b/ratings.csv": "da2f1ac5a6d18f20f5883ac1fbe15de4acce5c3fa34341cc7cd3a5408e1e3f1d",
+    "r1/fireside_traces/models.csv": "7635589e38267d5e3d8e2fc871bb8561293348d07a001d7386382b60237814eb",
+    "r1/fireside_traces/ratings.csv": "f7d849fd8e02dee19875f08a97774f5dfb4464739088e140d2fd33c0bf23b7db",
+    "r1/letter_7a/models.csv": "4bb3ac7c4a343fd00bae4ac90f3ecffd9f7c0181b5d275c5165fb3659bd8de43",
+    "r1/letter_7a/ratings.csv": "285faa42c8d270e9394bb5d8e2b730aa2f2cc62fb96bcab5de0d5ec8e05cafde",
+    "r1/letter_7b/models.csv": "71c6c065592058d6c685945988d28c31bb59d5f529f034ed0735b79c81567cf8",
+    "r1/letter_7b/ratings.csv": "109a941657cdd7a8bec1c9a6399b297e18fc0650f37ccc1d683021d15820ceb9",
+    "r1/letter_traces/models.csv": "8cc9bbc6a105100bf5763a44255807b93884692b6d4049c05149b4b1feb63417",
+    "r1/letter_traces/ratings.csv": "f41874d568fee869feadbdb40f8a4ba09993996ce04295d32c20d17ca6992637",
+    "r2/cartpony_traces/models.csv": "9b0d390e6f3e6e492e8550946299f212d214057a91ab519d7c56d50d6a43eda3",
+    "r2/cartpony_traces/ratings.csv": "c2bf5202b84000082d12947c6ccebdccd93ce685c30adc7f8e93bfb6f0519a21",
+    "r2/family_7a/models.csv": "5e1d2f42f71aa9861713c25c5c3cd8b6da11f528f642d948cc5be7667c9cac59",
+    "r2/family_7a/ratings.csv": "9deeb3bada5ac6a9ac0b74964b900655121ff07a9486423e89f9c1d093f6577b",
+    "r2/family_7b/models.csv": "aed6314a7a4c9154c37c42377ed9d3598377a8f39876baf66bf16100ebfe435a",
+    "r2/family_7b/ratings.csv": "a8111cbfb2250a0e1f5b22152a9944cd47029b8aac4e63e47430105ec3998358",
+    "r2/family_traces/models.csv": "75443fe97b1fdd26b40d56214bb35d5aa3ed92fd7ea3db463cda36d4e1bde951",
+    "r2/family_traces/ratings.csv": "bbe667c77ef5c7c7fab59b01b22e0b68d29ac9c7adaeb7f3b08498d31999136d",
+    "r2/fireside_7a/models.csv": "4c4b57be36e0e4a8ff97f1941d7669f060b651dd8c8f7507dbb6cce3077d8f69",
+    "r2/fireside_7a/ratings.csv": "d619175a96a85a04a625f61b4c2b1f40cba42716c0e8b37b42960171f0e16107",
+    "r2/fireside_7b/models.csv": "03b27841178a91139a53719543ac735e8c9811a89a06ba3560171da12f379550",
+    "r2/fireside_7b/ratings.csv": "94911749eb5351c9e88938d4d2460b30be5b4b81f2c7a8274013fdb434f1ef63",
+    "r2/fireside_traces/models.csv": "7f64818274cb8174aa8044c7c5825f27c3f4867d4fba6cdb71568d5743854f06",
+    "r2/fireside_traces/ratings.csv": "e8e5d2fcff2bec438ae8a7823ce7a401f7f4887ea47fb948a006cfbbcb205b8d",
+    "r2/letter_7a/models.csv": "05218baa6dc61f19436f517c71dcc5d32d9dd604e814908de10580887a1eb04c",
+    "r2/letter_7a/ratings.csv": "2e351f526efb20fcd9fb8a3c58ac9b9ad086f8c4b2a4c498083df7791e6045ea",
+    "r2/letter_7b/models.csv": "9623a7a2fb508368dc34300c655f013762b5d66f5d3404f10bd00923e8d8b256",
+    "r2/letter_7b/ratings.csv": "49c3fe94ae3d314069c7d322ee640b0bdd9c9cb40032c2c0bf2b6b7d509ad1af",
+    "r2/letter_traces/models.csv": "cfa49216822f80a0f5aae7d20e90814acb75cf95bfaccdc2aa444dd504caa8ee",
+    "r2/letter_traces/ratings.csv": "997360d437fb6e21b55b25e0aeb941d49029c99ea0330ff2304e7450bc431194"
+   },
+   "folder": "runs/analysis/followup_round/joined/"
+  },
+  "joined_notes": {
+   "count": 21,
+   "digest": "89f3899bcc9ca0331fee74d6afc822632e78c7c36fbf4f76aa9baf7bb02ac73c",
+   "files": {
+    "r1/cartpony_traces.txt": "7b68e347cd9c9a427c3f32cd12e5bf9c2d33eb19b86a3aab5d162f52d8da16dc",
+    "r1/family_7a.txt": "b9d0bb497ceec6e3c58094534ca51054db25afcf6cbd24cbed50b3f38e00697f",
+    "r1/family_7b.txt": "751027f36c04b68d55de430aea549fe7a525c2280e84305ae840d6afe76a6005",
+    "r1/family_traces.dropped.tsv": "f28eb4b4ce660f5d542f4fc8006baa240b0e3a01f87f8367c8e39b580a369829",
+    "r1/family_traces.txt": "b1676090609ca23a9c5dfe275c0cacf6331582ec1ee446141f02664b4eac6a2c",
+    "r1/fireside_7a.txt": "b451a579565614ce79395b3f84f79c38f19845f56e8624e4ee06a437155e4d1b",
+    "r1/fireside_7b.txt": "aa20c95bc12d5893763922fccd24e20d1a3c3b985f100e23341edff9956998b2",
+    "r1/fireside_traces.txt": "9274115007efad0e63d7a7a24cef8b8889462e3cf4bec423e88d04851d33ee94",
+    "r1/letter_7a.txt": "ded1feec4123947e465ed326470dfb839f878a46b364d3ccba7b888619e9508c",
+    "r1/letter_7b.txt": "0da3f8cc86b868f1230d59096f605c1be54ce1025a88b62d0706898229f5ca8a",
+    "r1/letter_traces.txt": "23d4b60ac913ac522250fa41ca0f8ec51556f9e821d3c0e1c0976f4a263b66dc",
+    "r2/cartpony_traces.txt": "2817a241389dc169ecc0076ce0d1591915fecbfa974c83a28bd92019c74ff3aa",
+    "r2/family_7a.txt": "3220385347e7dddc933527250926bcfbb1569bb8d5a7cdc8393db028b39cd80f",
+    "r2/family_7b.txt": "321fa803f9cb536c9124b1158f1a8ff825cc9e3427e377caf0d38f099dac1a4b",
+    "r2/family_traces.txt": "9cb40522050befac498e048f6ecc9430ad3ed1ebd5ee3c6733c6e6d96b385746",
+    "r2/fireside_7a.txt": "fcd7a394135e3fe1ddc7f0998f0fb8a840e5f0c9d9b6a0e68f78d52a6eb48a07",
+    "r2/fireside_7b.txt": "7b65376f8d07cd0fdca2303223588368cd6c3465cd452ac003a6a8f5a5aebc84",
+    "r2/fireside_traces.txt": "9597d5f939aac6951b8e8059cdf537349b23911f6e8a3c19705feebf755f6333",
+    "r2/letter_7a.txt": "92d311d65e5454570631be123499f4f16c636cc754ac326066211096925f5f18",
+    "r2/letter_7b.txt": "acd6c8a1807dce240d60cc9141c1ff9b5cf5e2a3551e1c21b07de2c1fbb91852",
+    "r2/letter_traces.txt": "863c8a4660876968dee7ca22e407975721345ed924a828322d0550aff0aaf816"
+   },
+   "folder": "runs/analysis/followup_round/joined_notes/"
+  }
+ },
+ "join": {
+  "by_step": {
+   "R1": {
+    "fable51": 8,
+    "opus50": 5,
+    "opus55": 1345,
+    "sonnet55": 10
+   },
+   "R2": {
+    "fable51": 13,
+    "sonnet55": 1355
+   }
+  },
+  "dropped_rows": [
+   [
+    "R1",
+    "family_traces",
+    1,
+    "[]"
+   ]
+  ],
+  "held_answers_joined": 626,
+  "printout": "runs/analysis/followup_round/compute_run/01_join.txt",
+  "printout_sha256": "3012914ce0517a13ec551591da8a12af6bc318b475c52132c83b3f5fd2d247b1",
+  "script": "runs/analysis/followup_round/scripts/fu_join.py",
+  "sha256": "ae24256359c3be24b1de50d64525fef68cdde73b218c3fa3c5d7849d138431e8",
+  "units": {
+   "R1": 1368,
+   "R2": 1368
+  }
+ },
+ "rule": "the plan's section 11, step 15: the join and both computes, byte-matched; the joined files and both computes' outputs fixed by sha256 before any figure is read"
+}

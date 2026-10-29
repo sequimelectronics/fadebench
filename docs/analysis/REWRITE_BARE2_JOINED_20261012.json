@@ -1,0 +1,56 @@
+{
+ "desk": {
+  "file": "runs/analysis/second_reader/rewrite_bare2_answers/desk.csv",
+  "flags": {
+   "corrected_set": 0,
+   "notes": 0,
+   "option_version_set": 0
+  },
+  "rows": 5,
+  "sha256": "4840d8c31b4bcd1a4df1c814df2aac5baa70b0785a2c4651dc8a2c00d8b51757"
+ },
+ "format": "rewrite-bare2-joined-v1",
+ "held_unchanged": {
+  "files": 363,
+  "manifest": "docs/analysis/REWRITE_BARE2_RS_HELD_20261011.json",
+  "sha256": "43fedb378828a9a1a91ab038d28e0e2d3ed9c962af2fe3b101fe5da2e759471d"
+ },
+ "join": {
+  "counts": {
+   "R1": {
+    "answers": 173,
+    "by_step": "fable51 80 opus48 15 opus50 95 opus55 664",
+    "coded": 854,
+    "ignored": 0,
+    "stops_lines": 0,
+    "without": 0
+   },
+   "R2": {
+    "answers": 189,
+    "by_step": "fable51 5 opus48 36 opus50 25 sonnet55 783",
+    "coded": 849,
+    "ignored": 0,
+    "stops_lines": 5,
+    "without": 5
+   }
+  },
+  "mode": "--read-rs",
+  "printout": "runs/analysis/second_reader/_rw2_revise/_lane_work/rw2_join_20261012.txt",
+  "printout_sha256": "20edd746166018a602eac330d33c97a2df020c2a13050a4052d3d19e4f692913",
+  "script": "runs/analysis/second_reader/rewrite_bare2_join.py",
+  "sha256": "c2c9550e71cc6e3d1dc1190182c0add2b51ae6111245f2680a1bc5efde3d8194"
+ },
+ "joined": {
+  "files": {
+   "rewrite_bare2_desk.csv": "4840d8c31b4bcd1a4df1c814df2aac5baa70b0785a2c4651dc8a2c00d8b51757",
+   "rewrite_bare2_models_r1.csv": "b1e1a0ee8264d66bcd2fe41a2cf968f3c02c7d66b35cf86448987aaee4dae710",
+   "rewrite_bare2_models_r2.csv": "f6ec24556881f898f8754fe99202a74f11819af8aa678d974fc58bff20a161ef",
+   "rewrite_bare2_notes_r1.txt": "2c26d5f90cafddee64e3a3023a25940283d160c08db3bc7f6eeaae90ec7b604d",
+   "rewrite_bare2_notes_r2.txt": "8c01f8c6ba8f80a9d87b89ddfabf1e3e6485a08f396e9bde9b08b757b114eeb5",
+   "rewrite_bare2_ratings_r1.csv": "d90835de83750bd36faf5297a0a2c01a9e84f4190cb16018a4a998427a10770c",
+   "rewrite_bare2_ratings_r2.csv": "dd72a65a1c7521da24eea8361355c84c1eb29029685722809a021e334e428bce"
+  },
+  "folder": "runs/analysis/second_reader/"
+ },
+ "rule": "the build spec's: the lane records every joined file's sha256 in a dated note before any result is read; the follow-ups are built after the main ratings are joined and hashed"
+}

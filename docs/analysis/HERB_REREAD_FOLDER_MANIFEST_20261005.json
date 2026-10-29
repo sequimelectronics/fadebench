@@ -1,0 +1,93 @@
+{
+ "folders": {
+  "blind_rows_01_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "c7a586bf0030a9a861b935084bc1af85539c60f73f99aa55867ead1a37e2d901"
+  },
+  "blind_rows_02_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "12863239ced8c7b73e44048634a1d8a9ff1368525df0776c2f012f08efaa7309"
+  },
+  "blind_rows_03_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "be25fb370abcd8dedb4df292c52ae3b56f587290ceaa70bafd7cdae8743e9401"
+  },
+  "blind_rows_04_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "bf902ace254b19669aa6925dd2501949edbcdd40da98945c59f22b0c16d71cce"
+  },
+  "blind_rows_05_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "c3c7ce95256d95ec8e4cbe93ee3f6ee563acaacb5cf88f064b4075a1ab39be04"
+  },
+  "blind_rows_06_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "8ae4dd5767c50b970482dea5eea8c52b3cc807e4f2cf2ef9f89e41dd942b5e13"
+  },
+  "blind_rows_07_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "c599aed6479caadfd0379a235d13fee8bf086ccdafb5b29f737719c1aa7c56a7"
+  },
+  "blind_rows_08_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "6e5425e2e9f153f0e95cd23f7ce04806c2e3468eae37ed199977a39de325bd9b"
+  },
+  "blind_rows_09_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "6de2472534920d6d17e946dd04943d92e80941ee3ec6525ec0c539a5e08855cc"
+  },
+  "blind_rows_10_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "00c05ba1a5e989fad910b346e7fbff99e4b230afc4be56a395529fa396cce610"
+  },
+  "blind_rows_11_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "0b769d61a662c84f72493304abf6fc744c933cd2757347103ed1c6da4b3e98c1"
+  },
+  "blind_rows_12_20261005": {
+   ".claude/settings.json": "ce38c38781dbb54079b16992c8df0b031526cb9697c15d19de804aa80507a79f",
+   "README.md": "ac6c0623662a1f101fd4eb803846ee3f07da94637184d998d3c12bb9ee9aa0c4",
+   "REQUEST_01.txt": "dfcab8c9cee26a0a60526ca7cf9f496a5a31a02f5c669f44d8ada9df98307fc3"
+  }
+ },
+ "key_sha256": "757b0b54f683a425c6eba12212f68485ad676c01dd9c1fedd56dba2cb3afd719",
+ "parts": {
+  "01": "blind_rows_01_20261005",
+  "02": "blind_rows_02_20261005",
+  "03": "blind_rows_03_20261005",
+  "04": "blind_rows_04_20261005",
+  "05": "blind_rows_05_20261005",
+  "06": "blind_rows_06_20261005",
+  "07": "blind_rows_07_20261005",
+  "08": "blind_rows_08_20261005",
+  "09": "blind_rows_09_20261005",
+  "10": "blind_rows_10_20261005",
+  "11": "blind_rows_11_20261005",
+  "12": "blind_rows_12_20261005"
+ },
+ "scan_hits": {
+  "blind_rows_01_20261005": {},
+  "blind_rows_02_20261005": {},
+  "blind_rows_03_20261005": {},
+  "blind_rows_04_20261005": {},
+  "blind_rows_05_20261005": {},
+  "blind_rows_06_20261005": {},
+  "blind_rows_07_20261005": {},
+  "blind_rows_08_20261005": {},
+  "blind_rows_09_20261005": {},
+  "blind_rows_10_20261005": {},
+  "blind_rows_11_20261005": {},
+  "blind_rows_12_20261005": {}
+ }
+}

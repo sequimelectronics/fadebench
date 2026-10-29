@@ -1,0 +1,56 @@
+{
+ "files": {
+  "api_stops": {
+   "path": "rewrite_bare2_api_stops.tsv",
+   "sha256": "549870894a04d03c7f537402946dd576af70611dbe33310e774961f75c1e4f43"
+  },
+  "called_for_followups": {
+   "path": "rewrite_bare2_api/read_rs/called_for_followups.json",
+   "sha256": "20bbd231228ccde881f04a3b7652687d2b85b926fe18d2b7d2b49214f799826d"
+  },
+  "followup_manifest": {
+   "path": "rewrite_bare2_api/read_rs/requests/MANIFEST_FOLLOWUPS.json",
+   "sha256": "c846b69c11fee4878ce744ab935e8444970a4d96188713f891352ab4cd26551d"
+  },
+  "rater_ids": {
+   "path": "rewrite_bare2_rater_ids.tsv",
+   "sha256": "814c723500423936e164cfddead61e8dda78fe7cb8b52e393b305f191d75adbf"
+  },
+  "read_faults": {
+   "path": "rewrite_bare2_api/read_rs/read_faults.tsv",
+   "sha256": "af09ddc4f383d6d69ad2ee0a5a75a0a9282f23bee2d3d83421176cfb685ae7df"
+  },
+  "spend": {
+   "path": "rewrite_bare2_api/read_rs/spend.tsv",
+   "sha256": "778ca46e61cecc90d580ee61376065c27fbaefc44d93defcedaa9eca03dab32f"
+  }
+ },
+ "format": "rewrite-bare2-fu-held-v1",
+ "groups": {
+  "answers": {
+   "count": 47,
+   "digest": "6e3e9b0f5987133d2fe142726c0208fe49510a6c394ee4f43ea67af991ba5acc"
+  },
+  "batches": {
+   "count": 58,
+   "digest": "83fa580868dc4d780382e29bf1b52ff828ead903c9d0680552c13c34b6f2644f"
+  },
+  "orders": {
+   "count": 29,
+   "digest": "0200e611af19be5f55061da3b4cc46867d3793cfaac7a70da5018ed8f787de65"
+  },
+  "requests": {
+   "count": 1557,
+   "digest": "527a4871475570afeed78d1b230bb27ae56a56da0e1473be904937b7fc778c1e"
+  },
+  "results": {
+   "count": 159,
+   "digest": "97558d1073569e35bffdd2bbca167779fdbfc3a69f4374f5ebccb466e789b01e"
+  }
+ },
+ "main_held_answers_unchanged": {
+  "files": 363,
+  "record_sha256": "43fedb378828a9a1a91ab038d28e0e2d3ed9c962af2fe3b101fe5da2e759471d"
+ },
+ "rule": "each group: its count and the sha256 of the sorted lines 'path relative to runs/analysis/second_reader/, a tab, the file's sha256', each with an LF; no path is listed, since the follow-up files are named by blind id"
+}

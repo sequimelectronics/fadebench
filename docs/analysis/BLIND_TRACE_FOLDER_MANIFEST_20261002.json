@@ -1,0 +1,21 @@
+{
+ "dest": "E:/blind_trace_rating_20261002",
+ "files": {
+  ".claude/settings.json": "4e04ad8d1a02052d16881840567a3e52b205cbedd48ceda4b42c79069c5b2fb6",
+  "GUIDE.md": "7c71b56d1b0db99ec73392d0be0afeec5c5f4cbcb1eb837b582e6c7138c3b43b",
+  "RATINGS.csv": "71a78956b57f59906a2dadb1480862ba59348ea6fa786fc9d9102ab64d5d3b02",
+  "README.md": "8cbbbc467e384b942edb8e618e04e2c50d347febf8d87cd919f3131e52b946a2",
+  "SCENES.md": "7eb2dc7bf7ac19188f1d259226da57c0bd5db57c21b912c2b04124824b62112a",
+  "TRACES_A.txt": "8cf5a3798297b63aa04f34861a0dc5475e98246653b926977a9eb9e9546cd17d",
+  "TRACES_B.txt": "92eca686fb318f94169c5f49b849a4245a67afcfcae2154d1f597c4487f9d38d",
+  "TRACES_C.txt": "e5e1aa6570465ffd29b449f05659943db934b746208c9505774784af945d75ac",
+  "TRACES_D.txt": "68e923d0c7f0d58dba0638debb3c7ae50b0312099b9741fb9ce5b77600f98784",
+  "TRACES_E.txt": "69b9a4fbd13a7cfdc5d2a0fbd573eea6a94b9a3ee77580b5f11522483acdc3fc"
+ },
+ "key_sha256": "c8334382938a46558accbd693d232e308d89cc2d797ac4f74fc746bdcaa66df6",
+ "scan_hits": {
+  "TRACES_A.txt": {
+   "anchor": 1
+  }
+ }
+}

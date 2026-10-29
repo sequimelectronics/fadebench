@@ -1,0 +1,84 @@
+{
+ "files": {
+  "order_002/R2/blind_traces_02_20261003.fable-5.0.txt": {
+   "bytes": 2817,
+   "sha256": "08c7152f312c595b5422668349d0761a507452d0f9cb1b049bf20dba0c4755c9"
+  },
+  "order_002/R2/chain_log.tsv": {
+   "bytes": 313,
+   "sha256": "796fe098e4a7f3a290d5b4e06275ecf122237c0fd52128230bdabdc94e97bb60",
+   "rows": 2,
+   "made_from": "order_002/chain_log_runner.tsv, the tokens column dropped"
+  },
+  "order_002/chain_log_runner.tsv": {
+   "bytes": 335,
+   "sha256": "b0af0cd44cb119592be94171170745a14716815c07aebe708819ca0ea140f059",
+   "rows": 2
+  },
+  "order_003/R2/blind_traces_03_K076_20261003.sonnet-5.5.txt": {
+   "bytes": 645,
+   "sha256": "4707286f97790656ae6e6ff26698ebf3dee1e18a7fb01c54a690e99e8bcacebb"
+  },
+  "order_003/R2/blind_traces_04_20261003.sonnet-5.5.txt": {
+   "bytes": 2826,
+   "sha256": "7709e3e772c8b600ca799c4fe8736b6b06d08748ab18a536a8a8682425b26a5c"
+  },
+  "order_003/R2/blind_traces_07_20261003.sonnet-5.5.txt": {
+   "bytes": 3067,
+   "sha256": "7cc7cff7a0b170c964ccce4b5e7218dc8ffa1559e702702431dcad568a749355"
+  },
+  "order_003/R2/blind_traces_08_20261003.sonnet-5.5.txt": {
+   "bytes": 1854,
+   "sha256": "f1f4a5b95edaa35e9ae81e0014cb6a949009148615a0b077e0c26d4505e09e64"
+  },
+  "order_003/R2/chain_log.tsv": {
+   "bytes": 455,
+   "sha256": "b122c388a0e003b4ec88908c2486e7b075558f75a3a5becedb0e85b4b723ca45",
+   "rows": 4,
+   "made_from": "order_003/chain_log_runner.tsv, the tokens column dropped"
+  },
+  "order_003/chain_log_runner.tsv": {
+   "bytes": 491,
+   "sha256": "31491caf84904036ca691e176589eaab6fb142e8f98b09f9a1b602534e2a6eb7",
+   "rows": 4
+  }
+ },
+ "probes": [
+  {
+   "order": "order_002",
+   "part": "02",
+   "kk": "00",
+   "model": "claude-fable-5",
+   "accept": true
+  },
+  {
+   "order": "order_003",
+   "part": "04",
+   "kk": "00",
+   "model": "claude-sonnet-5-5",
+   "accept": true
+  },
+  {
+   "order": "order_003",
+   "part": "07",
+   "kk": "00",
+   "model": "claude-sonnet-5-5",
+   "accept": true
+  },
+  {
+   "order": "order_003",
+   "part": "08",
+   "kk": "00",
+   "model": "claude-sonnet-5-5",
+   "accept": true
+  },
+  {
+   "order": "order_003",
+   "part": "03",
+   "kk": "K076",
+   "model": "claude-sonnet-5-5",
+   "accept": true
+  }
+ ],
+ "held": "2026-10-04, before any chain answer is parsed (the lane's header and row-id check, ids and counts only, came first, as procedure section 6 orders)"
+}

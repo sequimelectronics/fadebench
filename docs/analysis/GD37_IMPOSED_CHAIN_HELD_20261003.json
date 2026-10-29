@@ -1,0 +1,113 @@
+{
+ "files": {
+  "R1/blind_answers_26_20261003.REQUEST_01.txt": {
+   "bytes": 147,
+   "sha256": "079c17180ffacddd512e78be8644b57ee784ae2404590aff8083824a7ad8d60b"
+  },
+  "R1/blind_answers_26_20261003.REQUEST_03.txt": {
+   "bytes": 364,
+   "sha256": "ef355e2cfa6b8a8b76feabfe4096422609c4a52d21abe29ada007449ac9996d3"
+  },
+  "R1/blind_answers_26_20261003.REQUEST_04.txt": {
+   "bytes": 341,
+   "sha256": "a2b9d20036e564b933d5cb773421f24c17a1c9031166d03c364a37aefdcbce4a"
+  },
+  "R1/blind_answers_26_20261003.REQUEST_05.txt": {
+   "bytes": 161,
+   "sha256": "02f4dc2e3829b7b84ca83505b84b4466f6ddebabf31bd3a6c656c9b6c756e137"
+  },
+  "R1/blind_answers_32_20261003.REQUEST_01.txt": {
+   "bytes": 147,
+   "sha256": "39e30934912dd99a95a2ede741d1f0d9c7d9dbb5846afbf81210737714118dae"
+  },
+  "R1/blind_answers_32_20261003.REQUEST_02.txt": {
+   "bytes": 315,
+   "sha256": "58f84da565d47705bc523165d0774ac29e93043b5f8b25e62b03b0bc78d1afe6"
+  },
+  "R1/blind_answers_32_20261003.REQUEST_03.txt": {
+   "bytes": 364,
+   "sha256": "6e82881e08deda1656c931d3ed9698aa0b10427baa212ab7780a23af74765f83"
+  },
+  "R1/blind_answers_32_20261003.REQUEST_04.txt": {
+   "bytes": 341,
+   "sha256": "9b17b1c5391f8c33d8448621153e7eaa4bdb586795a0e63ae2f9edf3c3423071"
+  },
+  "R1/blind_answers_32_20261003.REQUEST_05.txt": {
+   "bytes": 161,
+   "sha256": "6cb1cc65096f3acd5aafe6014a2047cbf7be88d863df789402d0286500201fcf"
+  },
+  "R1/blind_answers_37_20261003.REQUEST_01.txt": {
+   "bytes": 191,
+   "sha256": "3a606af3aebef6520a099e800cb3a9210520bdd0f67b45addf5e00ecb1f8f7e7"
+  },
+  "R1/blind_answers_37_20261003.REQUEST_02.txt": {
+   "bytes": 171,
+   "sha256": "2cf2ebb0e72faf966a43ff5ca8580e6951913a6b386a518192ab94df4f1b9bb8"
+  },
+  "R1/blind_answers_37_20261003.REQUEST_03.txt": {
+   "bytes": 77,
+   "sha256": "49f31b5c4ecde5dd178f073fbe7e116793f46f420715db21c6b4d4529bf8f256"
+  },
+  "R1/blind_answers_37_20261003.REQUEST_04.txt": {
+   "bytes": 172,
+   "sha256": "95d7f51186107541c90546afc356d741347404285cfe3f6cedb811ad9abea517"
+  },
+  "R2/blind_answers_10_20261003.REQUEST_01.txt": {
+   "bytes": 173,
+   "sha256": "aa1a3a1b0ff59ecda50f2cf47b2b9a0a525c9b1d5d88fc5ca86388d7594cd400"
+  },
+  "R2/blind_answers_10_20261003.REQUEST_02.txt": {
+   "bytes": 171,
+   "sha256": "2cf2ebb0e72faf966a43ff5ca8580e6951913a6b386a518192ab94df4f1b9bb8"
+  },
+  "R2/blind_answers_10_20261003.REQUEST_03.txt": {
+   "bytes": 77,
+   "sha256": "49f31b5c4ecde5dd178f073fbe7e116793f46f420715db21c6b4d4529bf8f256"
+  },
+  "R2/blind_answers_10_20261003.REQUEST_04.txt": {
+   "bytes": 164,
+   "sha256": "e6c9c625f14f3adc86ef160b9a9cb805d124b2547493246f7b06865073e685c6"
+  },
+  "R2/blind_answers_15_20261003.REQUEST_01.txt": {
+   "bytes": 147,
+   "sha256": "39e30934912dd99a95a2ede741d1f0d9c7d9dbb5846afbf81210737714118dae"
+  },
+  "R2/blind_answers_15_20261003.REQUEST_02.txt": {
+   "bytes": 239,
+   "sha256": "f4ca5e93b4143a5b89c6f51204434971b0d23426fc1b07bfedc7c38e8c094fe7"
+  },
+  "R2/blind_answers_15_20261003.REQUEST_03.txt": {
+   "bytes": 390,
+   "sha256": "52798281995f69c63e65329c346a5a4a148cf62c21d522b28ce91c6ff88c2a78"
+  },
+  "R2/blind_answers_15_20261003.REQUEST_04.txt": {
+   "bytes": 341,
+   "sha256": "9b17b1c5391f8c33d8448621153e7eaa4bdb586795a0e63ae2f9edf3c3423071"
+  },
+  "R2/blind_answers_15_20261003.REQUEST_05.txt": {
+   "bytes": 161,
+   "sha256": "6cb1cc65096f3acd5aafe6014a2047cbf7be88d863df789402d0286500201fcf"
+  },
+  "R2/blind_answers_43_20261003.REQUEST_01.txt": {
+   "bytes": 147,
+   "sha256": "079c17180ffacddd512e78be8644b57ee784ae2404590aff8083824a7ad8d60b"
+  },
+  "R2/blind_answers_43_20261003.REQUEST_03.txt": {
+   "bytes": 364,
+   "sha256": "ef355e2cfa6b8a8b76feabfe4096422609c4a52d21abe29ada007449ac9996d3"
+  },
+  "R2/blind_answers_43_20261003.REQUEST_04.txt": {
+   "bytes": 293,
+   "sha256": "f184ca0b14ed719d56e3f0b5be8e88b6499aefb64d70a9e9ebc0466d9facaafa"
+  },
+  "R2/blind_answers_43_20261003.REQUEST_05.txt": {
+   "bytes": 161,
+   "sha256": "02f4dc2e3829b7b84ca83505b84b4466f6ddebabf31bd3a6c656c9b6c756e137"
+  },
+  "chain_log.tsv": {
+   "bytes": 5426,
+   "sha256": "588176dae5451de0ee925bb251ee09b67dfb575850b7ebeeb32ef0334e96bd9e"
+  }
+ },
+ "held": "2026-10-03, before any chain answer is parsed"
+}

@@ -1,0 +1,118 @@
+{
+ "digest_rule": "sha256 of the sorted lines: the path relative to the group's folder, a tab, the file's sha256, a line end",
+ "format": "b9b10-flags-held-v1",
+ "groups": {
+  "answers": {
+   "count": 6,
+   "digest": "a3cee83d130b721ccd1ba5a839bec232c6997ec46f1543740f0b24738866abdd",
+   "files": {
+    "R1/k01s001.opus55.try.txt": "239197ead20c6c4ce624bdc143723f6cf06b01cce0c83c468ce97a5a1f158828",
+    "R1/k01s002.opus55.try.txt": "d953f36632f339c1d123b20f4099597887e8f398d25a7438ae005f3ea182e1c4",
+    "R1/k01s003.opus55.try.txt": "b33d1025da5f5003192d6afd37c9dac02a0f6e7b2f8c4005950177f033904b0b",
+    "R2/k01s001.sonnet55.try.txt": "1964aaf6092fdf6d44ab8882c8c5b715c898ba0f9f2925bfc8d8920757a4608c",
+    "R2/k01s002.sonnet55.try.txt": "a4cb6ba567b638309d47258fc3b9df185cdfd2943f0129005a4abda0c935ad29",
+    "R2/k01s003.sonnet55.try.txt": "d82ecd5dac0441bfab65bb50ec57074cea52ddc22c384a989eed940f4fa09048"
+   },
+   "folder": "runs/analysis/acct_b9b10/answers/",
+   "what": "every held answer of the flags part, by rater (no desk list: no unit reached the desk)"
+  },
+  "api_base": {
+   "count": 4,
+   "digest": "87754c6f10f9d3e332e1a038085143ef2f62a51f0cf8b4b8bf6f06957f3b9296",
+   "files": {
+    "called_for.json": "6f9be66c97ac83e954f1291a09d5dce6555a3e3a54806dbea4b15736cdc4878b",
+    "gates/reserve_state_1.json": "16d71884b73b080f285400693e960a8933feced1af51d12a81e3b25295d15169",
+    "reserve_state.json": "d6f50176ae0ca6017e8b4fab0900fc30fd6a0302930991c08a1660c9be63044d",
+    "spend.tsv": "f0db4b8b3d078314703834c3fb9a97030153df013c1cf5166fa1ab5ef746cd84"
+   },
+   "folder": "runs/analysis/acct_b9b10/api/",
+   "what": "the spend file, the tries called for, the reserve state and its gate marker (no read fault file, no halt, no runner list)"
+  },
+  "batches": {
+   "count": 4,
+   "digest": "9bcd41b2d561bc61eae4263d017ab040a850f176a97538ca2c75ef473a4a8d1e",
+   "files": {
+    "bb-k01-first-s1.json": "e5767004298fbb69682b25b6ab33d57d0641641e2048152e98557331a970eff2",
+    "bb-k01-first-s1.pending.json": "4d99e188f14ff322484fca39ba6cada5ed49de8b335c693b54bd439790e2a82e",
+    "bb-k01-first-s2.json": "0cff6edd7bf86b8218c5e8cdd2dc0bf4ffa5c6db443e5104bf6323562821e00a",
+    "bb-k01-first-s2.pending.json": "63aa5a77fa53366190ccf95414e534684b5c04f8d5c00ee54d5f7b6eddc81189"
+   },
+   "folder": "runs/analysis/acct_b9b10/api/batches/",
+   "what": "every batch file and pending manifest"
+  },
+  "later_bodies": {
+   "count": 12,
+   "digest": "eefa718fcaafde34645c1573e217235a3e661cccc92eab8be92f266550628f06",
+   "files": {
+    "r1/opus55/k01s001/try/s2.from.json": "c2bb4819a56669304624f0ffa6d38216d231b49df179e3a00a15ab9eb2215a45",
+    "r1/opus55/k01s001/try/s2.json": "bd14c6e78668d3dc25458abefdf8203b18812185d1fa21c7c18f7998285bc4a3",
+    "r1/opus55/k01s002/try/s2.from.json": "bce46c3365d16077a4a4aceab14902079924f90353cf50446aa8bade38375935",
+    "r1/opus55/k01s002/try/s2.json": "8efafd635b3e1771e54f8f59dafcb480d3d9d333785cda12bb63db43ad241232",
+    "r1/opus55/k01s003/try/s2.from.json": "98777396279729b99ffd31cef68664b3717dd33c616aa811b3b9bb34b800899e",
+    "r1/opus55/k01s003/try/s2.json": "2e5262627d906acd8499a65d155d351d80fcb87fed9100a8b27451f781b6d66d",
+    "r2/sonnet55/k01s001/try/s2.from.json": "611f28cac6b534b8b94c299adcca9638d0f8c36051b935dd5e905afa7ade29c6",
+    "r2/sonnet55/k01s001/try/s2.json": "9ce4721d10cb587d35186f6d419652c61ee03d8c1a44985e0907092587fa59fc",
+    "r2/sonnet55/k01s002/try/s2.from.json": "a079dd00f70b83f0ea48913ef0bcac79c998d4fab9a8124faf7420056d7c4b5c",
+    "r2/sonnet55/k01s002/try/s2.json": "29fdfcc0a526a1e388224666ba27447ff6ece77e3a3755370f015da89647e0ff",
+    "r2/sonnet55/k01s003/try/s2.from.json": "47268ffab9f66012608502019a2c935fafab6f79cdab564bb3e0f759ac5d6d2e",
+    "r2/sonnet55/k01s003/try/s2.json": "0c606fe8020b4f380f8684631f2dfccfe582f95d15b7f8f156ecff64cacb77d4"
+   },
+   "folder": "runs/analysis/acct_b9b10/api/requests/",
+   "what": "every later-turn body and its continuation record (r1/ and r2/)"
+  },
+  "orders": {
+   "count": 2,
+   "digest": "f2342b0419f11a600e5a89176f040814390bc574ec6f038f7e86d7717ee7da72",
+   "files": {
+    "bb-k01-first-s1.txt": "e6732084406d8a0232c2298a38bc6894211e75d60a2bf526eaa8d6bb9611f7c2",
+    "bb-k01-first-s2.txt": "f959e5fef305b1c3cb703ec736f4f3fd30efe47be5898c3117b1be60bda7506a"
+   },
+   "folder": "runs/analysis/acct_b9b10/api/orders/",
+   "what": "every order"
+  },
+  "records": {
+   "count": 1,
+   "digest": "6d48ce8416e7cd4c89bb102aedf29644085cef0e8517e1cc9993851f2c19af86",
+   "files": {
+    "rater_ids.tsv": "6c11beb78dede69934170bc63131530bf670bbb5f48519c22d137e9bfa13388e"
+   },
+   "folder": "runs/analysis/acct_b9b10/",
+   "what": "the rater ids file (the API stops file is absent: no stop)"
+  },
+  "results": {
+   "count": 12,
+   "digest": "3e0581ccfa49545e0d16fa730950c7a1cacb7ea6a12a52d088b0c837bc13a1da",
+   "files": {
+    "bb-k01-r1-opus55-k01s001-s1-try.json": "d6927bbcf341ceb67e75ad413ca3560b115e415138b472c150a3f0bd9d1f7bc3",
+    "bb-k01-r1-opus55-k01s001-s2-try.json": "dfa2d6658d921db32afcb8d0504fccb4f25e9a304b35211aaee67c4c060bcd24",
+    "bb-k01-r1-opus55-k01s002-s1-try.json": "c28e3e5eb256df4648693ea5f33326ef773ef09a80556666e5916d33d4823f8c",
+    "bb-k01-r1-opus55-k01s002-s2-try.json": "424dd4c7d973e8139bdf88ff1567a143315aa1815fea9a54dbf2e723ad283cf0",
+    "bb-k01-r1-opus55-k01s003-s1-try.json": "d0b7acfa6762809c3cacc10ad49df1d9e3d44fceee5af07fdec359827c9a9af8",
+    "bb-k01-r1-opus55-k01s003-s2-try.json": "86fbb1bb3ad030553549b15e14d71e8776a5952bf2c6b61972b5c120f39601de",
+    "bb-k01-r2-sonnet55-k01s001-s1-try.json": "d0312d5a6b1a073e4ba1b158b17caa6e5723b143f3e8207fa55c06fd0da14f30",
+    "bb-k01-r2-sonnet55-k01s001-s2-try.json": "7de025d62612308e45a541587fc69bf57fc3713bb2277931cdfd711f7cdf233b",
+    "bb-k01-r2-sonnet55-k01s002-s1-try.json": "3d1046d3a9cb26638c78719a7786c7acf57aef1556dca093d0ef420930950879",
+    "bb-k01-r2-sonnet55-k01s002-s2-try.json": "4c70bb292e9eefe9cddbd6dcfdae4455246c450de931d6f2fb4f696c7369f99d",
+    "bb-k01-r2-sonnet55-k01s003-s1-try.json": "b5edb6272b56f42ccf0e4c91e79445cccaed6b188de8b2cef154887195890f66",
+    "bb-k01-r2-sonnet55-k01s003-s2-try.json": "067ae98fd9756ece8ff14b2406bfec244428a4779be8935246ad5d421e34be99"
+   },
+   "folder": "runs/analysis/acct_b9b10/api/results/",
+   "what": "every raw result, hashed by bytes only"
+  }
+ },
+ "prompts": {
+  "count": 6287,
+  "digest": "4f1b2cb69c1759af418e432f6db5b0890e3d8bcdc0a078eb6604de5c00923398",
+  "folder": "runs/analysis/acct_b9b10/api/prompts/"
+ },
+ "rule": "the procedure's section 11, step 17: the flags part's answers are held and fixed by hash in a dated note, and are not parsed; every held answer, raw result, batch file, order, the spend file, the records and every later-turn body with its continuation record, fixed by sha256",
+ "turn1_bodies": {
+  "count": 37723,
+  "digest": "53e0205b76f0ccba633567061666e8b45bbd3bc682a32b6aa7ea33b487e0bccf",
+  "folder": "runs/analysis/acct_b9b10/api/requests/",
+  "less": [
+   "r1/",
+   "r2/"
+  ]
+ }
+}
