@@ -31,7 +31,7 @@ equivalent. The rewrite was additive-removal only: no frozen benchmark material 
 | `360d8a7` | `4ad7995` | runner: wire the instrumentation arm (instr_visible / instr_stripped) |
 | `7bb5425` | `f608ded` | runner: per-turn WHY reminder in BOTH instrumentation sub-arms (Fable design call) |
 | `39ba472` | `bec9cc6` | runner: frame the retrospective as 'not a turn' (both paths, identical) |
-| `3bc6ee4` | `4afd23a` | runner: remove companion path from the public runner -- it moves private (Becky) |
+| `3bc6ee4` | `4afd23a` | runner: remove companion path from the public runner -- it moves private (the maintainer) |
 | `f3a35a4` | `2a1a3bf` | runner: log per-turn recall hits + prompt-side leak sweep (D25 ask 2/3) |
 | `a82c3e0` | `0000000` |  |
 
