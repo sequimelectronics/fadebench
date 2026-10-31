@@ -181,3 +181,6 @@ data/figure1_runs/gradient_gd-14b_84ed9afe_control_vanilla_era3_char39d76ede_bal
 data/figure1_runs/gradient_gd-14b_84ed9afe_control_vanilla_era3_char39d76ede_bal_p6144_think_gemma-4-E4B_20260908T074516Z.jsonl::n:\n\
 data/figure1_runs/gradient_gd-14b_84ed9afe_control_vanilla_era3_char39d76ede_bal_p6144_think_gemma-4-E4B_20260908T074516Z.jsonl::s:\n\
 data/figure1_runs/gradient_gd-14b_84ed9afe_control_vanilla_era3_char39d76ede_bal_p6144_think_gemma-4-E4B_20260908T074516Z.jsonl::t:\n\
+# README's DOI badges and links (2026-10-31): web addresses whose "s://" the guard reads as a drive path.
+README.md::s://zenodo.org/
+README.md::s://doi.org/
