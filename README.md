@@ -142,8 +142,8 @@ Item and scenario files under `fadebench/items_*/` and `fadebench/scenarios/` en
 ## How to cite
 
 Citation metadata is in [CITATION.cff](CITATION.cff) (GitHub renders it as
-"Cite this repository"). A paper is in preparation; once it has an arXiv
-id the preferred citation will route there.
+"Cite this repository"). The paper is published on Zenodo, DOI
+10.5281/zenodo.23846266, and the preferred citation in CITATION.cff routes there.
 
 ## License
 
