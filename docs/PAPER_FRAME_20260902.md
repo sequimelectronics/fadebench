@@ -36,6 +36,11 @@ And the same character, the same day, rescued a fox from a mud pit with
 competence and care, then set the fox on the donkey against its
 audible protest. Care as control, one day earlier, in one turn.
 
+**Correction (2026-10-29, the maintainer).** The fox was rescued earlier the same morning as
+the meal on the plain, not one day earlier. The order was the fire, a rainstorm, the cave and a
+night's sleep. The next morning came the fox in the mud, leaving the forest, the scorched plain,
+and the meal.
+
 ## 2. What the lab can now say about mechanism
 
 Each candidate mechanism, with the field evidence, the lab evidence,

@@ -4,7 +4,7 @@ The paper cites 15 notes in `docs/analysis/`. This file says where each copy her
 
 Each copy starts from the note's text in the repository at commit 8247bb5. Only words within a line were
 changed, and no line was removed or moved, so a line number in the paper still points to the same line. Lines were added only at the end, as the next sentence says.
-One line was added at the end of each copy: the canary line, which marks the file as benchmark material. In the read register's copy, the 195 lines of its parts 20d and 20e come before that line; the study added them after 8247bb5, and they are its text at commit 899ce87, unchanged.
+One line was added at the end of each copy: the canary line, which marks the file as benchmark material. In the read register's copy, the 195 lines of its parts 20d and 20e come before that line; the study added them after 8247bb5, and they are its text at commit 899ce87, unchanged. In the copy of `RESULTS_J01_TIERS_BARE_20261027.md`, the 13 lines the study added at commit 5a59d5c also come before that line, unchanged.
 
 The changes are of four kinds:
 
@@ -116,10 +116,10 @@ Where a note has a digest, it is given below, with whether it equals the text at
 
 - Text at 8247bb5: sha256 `3b059e2757808ff85893ad66299224f19d3a0da9c6d79f80cd2e141c733f9ded` (510 lines).
 - OSF batch 7 digest: none. The manifest does not list this note.
-- Release copy: sha256 `b2224a8b26747417c9e8e502811c77c75626eaf84cebc1ada4058cc2ccb33c2f` (511 lines: the same 510, and the canary line).
+- Release copy: sha256 `344f66a19602df35d64812789bd8d2e03593484c7c232b2f869c16c1c18ae9de` (524 lines: the same 510, then the 13 lines the study added at commit 5a59d5c, then the canary line).
 - Changed lines:
   - naming (the deployed system named as in the paper): 17, 108, 509.
-- Added: line 511, the canary line.
+- Added: lines 511 to 523, the study's text at commit 5a59d5c, unchanged; line 524, the canary line.
 
 ## `docs/analysis/RESULTS_KEEL_BARE_20261026.md`
 
