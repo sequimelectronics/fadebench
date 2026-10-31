@@ -5,7 +5,9 @@ here ends with one canary line, which marks the file as benchmark material. This
 out. JSON, JSONL and CSV files, and the checksum list `data/figure1_runs/SHA256SUMS`, carry no canary
 line.
 
-The paper's text is now at the study's commit bd0f857, and it cites the study's copies at that commit.
+The paper's text is now at the study's commit a073a24, and it cites the study's copies at that commit.
+Between bd0f857 and a073a24 only the paper's own wording changed, so every copy below named at bd0f857 is the
+same at a073a24.
 Between 8247bb5 and 899ce87, three files this release carries changed: the external rating's
 registration (its RR57 entry, added at 37067a7), the re-rate memo (new at b225c9c) and the read register
 (its parts 20d and 20e). For the read register, the study's copy below is its text at 899ce87, which is
