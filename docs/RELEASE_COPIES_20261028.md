@@ -193,6 +193,9 @@ No line was added or removed, so the line numbering matches the study's copy lin
 the paper's line citations into the log hold. Where a passage was cut, its lines now say in
 general words what the entry records.
 
+Entry D64 was added after the release. It is the study's text at df0e7a2, unchanged, at lines 5,210 to 5,237, before the
+canary line. Lines 1 to 5,209 are as described above.
+
 ## Older copies of files the paper names
 
 This repository holds the files below as older copies. The paper cites the study's copy at bd0f857.
@@ -256,13 +259,15 @@ paper cites, are in OSF batch 2's archive (DOI 10.17605/OSF.IO/ATHUX):
 
 ## Files at a later study commit
 
-These four paths are new in this repository. Each is the study's copy at a commit later than
+These five paths are new in this repository. Each is the study's copy at a commit later than
 8247bb5, with the canary line added. Nothing else changed, except as its row says:
 
 - `docs/PREREG_EXTERNAL_BLIND_RATING_20260923.md` (the external rating's registration): the study's copy at 37067a7, which adds its RR57 entry. It is the same at bd0f857.
 - `docs/RESULTS_RR57_20261028.md` (the re-rate memo): the study's copy at bd0f857. It is new at b225c9c and the same since.
 - `docs/analysis/RESULTS_HALL_RECOUNTS_20261031.md` (the hall recounts memo): the study's copy at bd0f857. It is new at 5a59d5c and the same since. Its names-to-roles changes are listed in "New files from later study commits" above.
 - `docs/RESULTS_POSITION_AUDIT_GD15_20261029.md` (the position audit of The Word at Greenhold): the study's copy at bd0f857. It is new at 68a086b and the same since.
+- `docs/SUBJECT_CHECKPOINTS_20260923.md` (the exact weights behind every bare cell, and the warning that one file's name on its
+  repository now holds different weights): the study's copy at df0e7a2. It was last changed at d2c1bca and is the same since.
 
 ## The Figure 1 run files
 
