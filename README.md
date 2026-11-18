@@ -17,6 +17,11 @@ hashes; the authoring notes of 11 item files; and some files the paper cites, wh
 OSF deposits instead. `docs/RELEASE_COPIES_20261028.md` says where every cited file can be
 found, and lists each file that differs from the study's own copy.
 
+**The paper itself** is in `paper/`: `paper/paper.md` is the published text with its figures
+in `paper/figures/`, and `paper/FadeBench_No_Step_Looked_Wrong_preprint_a073a24.pdf` is the
+published PDF, identical to the Zenodo copy (DOI 10.5281/zenodo.23846266). Both are taken
+unchanged from study commit a073a24.
+
 History consolidated on 2026-10-28; the earlier history is archived privately and
 available to reviewers on request. In this copy, a few passages on the deployed system's
 internal workings are replaced by short notes; the results are unchanged.
